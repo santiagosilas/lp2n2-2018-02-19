@@ -2,9 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace InjecaoConstrutor.Exemplo
+namespace InjecaoInterface.Exemplo
 {
-    class Pedido
+    public class Pedido : IPedido
     {
+        public double CalcularTotal() => 0;
+    }
+    public interface IPedido
+    {
+        double CalcularTotal();
     }
 }
