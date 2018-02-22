@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\alunos\\documents\\visual studio 2017\\Projects\\InjecaoDependencia\\App\\InjecaoConstrutor.csproj",
+      "projectUniqueName": "E:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\lp2n2\\lp2n2-2018-02-19\\InjecaoDependencia\\App\\InjecaoConstrutor.csproj",
       "projectName": "InjecaoConstrutor",
-      "projectPath": "c:\\users\\alunos\\documents\\visual studio 2017\\Projects\\InjecaoDependencia\\App\\InjecaoConstrutor.csproj",
-      "outputPath": "c:\\users\\alunos\\documents\\visual studio 2017\\Projects\\InjecaoDependencia\\App\\obj\\",
+      "projectPath": "E:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\lp2n2\\lp2n2-2018-02-19\\InjecaoDependencia\\App\\InjecaoConstrutor.csproj",
+      "outputPath": "E:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\lp2n2\\lp2n2-2018-02-19\\InjecaoDependencia\\App\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

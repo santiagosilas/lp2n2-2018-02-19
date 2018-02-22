@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\alunos\\documents\\visual studio 2017\\Projects\\InjecaoDependencia\\InjecaoInterface\\InjecaoInterface.csproj",
+      "projectUniqueName": "E:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\lp2n2\\lp2n2-2018-02-19\\InjecaoDependencia\\InjecaoInterface\\InjecaoInterface.csproj",
       "projectName": "InjecaoInterface",
-      "projectPath": "c:\\users\\alunos\\documents\\visual studio 2017\\Projects\\InjecaoDependencia\\InjecaoInterface\\InjecaoInterface.csproj",
-      "outputPath": "c:\\users\\alunos\\documents\\visual studio 2017\\Projects\\InjecaoDependencia\\InjecaoInterface\\obj\\",
+      "projectPath": "E:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\lp2n2\\lp2n2-2018-02-19\\InjecaoDependencia\\InjecaoInterface\\InjecaoInterface.csproj",
+      "outputPath": "E:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\lp2n2\\lp2n2-2018-02-19\\InjecaoDependencia\\InjecaoInterface\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
