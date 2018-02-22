@@ -1,4 +1,8 @@
 ﻿using System;
+using Mail;
+using Form;
+
+// Exemplo com forte acoplamento.
 
 namespace app2
 {
@@ -6,7 +10,8 @@ namespace app2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           var form = new FormHandler();
+           form.Handle("Casa");
         }
     }
 }
