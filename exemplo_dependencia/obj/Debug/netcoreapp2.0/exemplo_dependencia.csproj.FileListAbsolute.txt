@@ -1,0 +1,10 @@
+C:\Users\bolsista\Documents\Joyce\exemplo_dependencia\bin\Debug\netcoreapp2.0\exemplo_dependencia.deps.json
+C:\Users\bolsista\Documents\Joyce\exemplo_dependencia\bin\Debug\netcoreapp2.0\exemplo_dependencia.runtimeconfig.json
+C:\Users\bolsista\Documents\Joyce\exemplo_dependencia\bin\Debug\netcoreapp2.0\exemplo_dependencia.runtimeconfig.dev.json
+C:\Users\bolsista\Documents\Joyce\exemplo_dependencia\bin\Debug\netcoreapp2.0\exemplo_dependencia.dll
+C:\Users\bolsista\Documents\Joyce\exemplo_dependencia\bin\Debug\netcoreapp2.0\exemplo_dependencia.pdb
+C:\Users\bolsista\Documents\Joyce\exemplo_dependencia\obj\Debug\netcoreapp2.0\exemplo_dependencia.csproj.CoreCompileInputs.cache
+C:\Users\bolsista\Documents\Joyce\exemplo_dependencia\obj\Debug\netcoreapp2.0\exemplo_dependencia.AssemblyInfoInputs.cache
+C:\Users\bolsista\Documents\Joyce\exemplo_dependencia\obj\Debug\netcoreapp2.0\exemplo_dependencia.AssemblyInfo.cs
+C:\Users\bolsista\Documents\Joyce\exemplo_dependencia\obj\Debug\netcoreapp2.0\exemplo_dependencia.dll
+C:\Users\bolsista\Documents\Joyce\exemplo_dependencia\obj\Debug\netcoreapp2.0\exemplo_dependencia.pdb
