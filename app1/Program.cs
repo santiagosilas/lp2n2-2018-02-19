@@ -1,4 +1,8 @@
 ﻿using System;
+using Implementacao;
+using Ninject.Modules;
+using Ninject;
+using Interface;
 
 namespace app1
 {
@@ -6,7 +10,13 @@ namespace app1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var ninjectKernel = new StandardKernel();
+
+            ninjectKernel.Bind<IProduto>().To<Produto>();
+
+            var produto = ninjectKernel.Get<IProduto>();
+            var compra = new Compra(produto);
+            var preco = compra.CalcularPreco();
         }
     }
 }
