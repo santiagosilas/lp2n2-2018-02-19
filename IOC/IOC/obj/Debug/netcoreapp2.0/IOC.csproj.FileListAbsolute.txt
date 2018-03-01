@@ -1,0 +1,11 @@
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\IOC\bin\Debug\netcoreapp2.0\IOC.deps.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\IOC\bin\Debug\netcoreapp2.0\IOC.runtimeconfig.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\IOC\bin\Debug\netcoreapp2.0\IOC.runtimeconfig.dev.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\IOC\bin\Debug\netcoreapp2.0\IOC.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\IOC\obj\Debug\netcoreapp2.0\IOC.csprojResolveAssemblyReference.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\IOC\obj\Debug\netcoreapp2.0\IOC.csproj.CoreCompileInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\IOC\obj\Debug\netcoreapp2.0\IOC.AssemblyInfoInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\IOC\obj\Debug\netcoreapp2.0\IOC.AssemblyInfo.cs
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\IOC\bin\Debug\netcoreapp2.0\IOC.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\IOC\obj\Debug\netcoreapp2.0\IOC.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\IOC\obj\Debug\netcoreapp2.0\IOC.pdb

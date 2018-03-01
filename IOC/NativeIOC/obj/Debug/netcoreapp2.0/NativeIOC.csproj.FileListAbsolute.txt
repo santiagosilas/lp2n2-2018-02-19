@@ -1,0 +1,8 @@
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\NativeIOC\bin\Debug\netcoreapp2.0\NativeIOC.deps.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\NativeIOC\bin\Debug\netcoreapp2.0\NativeIOC.runtimeconfig.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\NativeIOC\bin\Debug\netcoreapp2.0\NativeIOC.runtimeconfig.dev.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\NativeIOC\bin\Debug\netcoreapp2.0\NativeIOC.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\NativeIOC\obj\Debug\netcoreapp2.0\NativeIOC.csprojResolveAssemblyReference.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\NativeIOC\obj\Debug\netcoreapp2.0\NativeIOC.csproj.CoreCompileInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\NativeIOC\obj\Debug\netcoreapp2.0\NativeIOC.AssemblyInfoInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\lp2n2-2018-02-19\IOC\NativeIOC\obj\Debug\netcoreapp2.0\NativeIOC.AssemblyInfo.cs
