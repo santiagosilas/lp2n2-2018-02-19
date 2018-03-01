@@ -1,0 +1,11 @@
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoConstrutor\bin\Debug\netcoreapp2.0\InjecaoConstrutor.deps.json
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoConstrutor\bin\Debug\netcoreapp2.0\InjecaoConstrutor.runtimeconfig.json
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoConstrutor\bin\Debug\netcoreapp2.0\InjecaoConstrutor.runtimeconfig.dev.json
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoConstrutor\bin\Debug\netcoreapp2.0\InjecaoConstrutor.dll
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoConstrutor\bin\Debug\netcoreapp2.0\InjecaoConstrutor.pdb
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoConstrutor\obj\Debug\netcoreapp2.0\InjecaoConstrutor.csprojResolveAssemblyReference.cache
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoConstrutor\obj\Debug\netcoreapp2.0\InjecaoConstrutor.csproj.CoreCompileInputs.cache
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoConstrutor\obj\Debug\netcoreapp2.0\InjecaoConstrutor.AssemblyInfoInputs.cache
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoConstrutor\obj\Debug\netcoreapp2.0\InjecaoConstrutor.AssemblyInfo.cs
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoConstrutor\obj\Debug\netcoreapp2.0\InjecaoConstrutor.dll
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoConstrutor\obj\Debug\netcoreapp2.0\InjecaoConstrutor.pdb

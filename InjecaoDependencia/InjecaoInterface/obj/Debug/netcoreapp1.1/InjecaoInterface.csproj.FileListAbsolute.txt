@@ -1,0 +1,10 @@
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoInterface\bin\Debug\netcoreapp1.1\InjecaoInterface.deps.json
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoInterface\bin\Debug\netcoreapp1.1\InjecaoInterface.runtimeconfig.json
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoInterface\bin\Debug\netcoreapp1.1\InjecaoInterface.runtimeconfig.dev.json
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoInterface\bin\Debug\netcoreapp1.1\InjecaoInterface.dll
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoInterface\bin\Debug\netcoreapp1.1\InjecaoInterface.pdb
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoInterface\obj\Debug\netcoreapp1.1\InjecaoInterface.csproj.CoreCompileInputs.cache
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoInterface\obj\Debug\netcoreapp1.1\InjecaoInterface.AssemblyInfoInputs.cache
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoInterface\obj\Debug\netcoreapp1.1\InjecaoInterface.AssemblyInfo.cs
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoInterface\obj\Debug\netcoreapp1.1\InjecaoInterface.dll
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoInterface\obj\Debug\netcoreapp1.1\InjecaoInterface.pdb

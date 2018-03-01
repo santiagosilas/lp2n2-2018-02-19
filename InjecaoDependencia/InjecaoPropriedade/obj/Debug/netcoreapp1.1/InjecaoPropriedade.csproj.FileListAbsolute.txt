@@ -1,0 +1,10 @@
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoPropriedade\bin\Debug\netcoreapp1.1\InjecaoPropriedade.deps.json
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoPropriedade\bin\Debug\netcoreapp1.1\InjecaoPropriedade.runtimeconfig.json
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoPropriedade\bin\Debug\netcoreapp1.1\InjecaoPropriedade.runtimeconfig.dev.json
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoPropriedade\bin\Debug\netcoreapp1.1\InjecaoPropriedade.dll
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoPropriedade\bin\Debug\netcoreapp1.1\InjecaoPropriedade.pdb
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoPropriedade\obj\Debug\netcoreapp1.1\InjecaoPropriedade.csproj.CoreCompileInputs.cache
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoPropriedade\obj\Debug\netcoreapp1.1\InjecaoPropriedade.AssemblyInfoInputs.cache
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoPropriedade\obj\Debug\netcoreapp1.1\InjecaoPropriedade.AssemblyInfo.cs
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoPropriedade\obj\Debug\netcoreapp1.1\InjecaoPropriedade.dll
+F:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\InjecaoPropriedade\obj\Debug\netcoreapp1.1\InjecaoPropriedade.pdb

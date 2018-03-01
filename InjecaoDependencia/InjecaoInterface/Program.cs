@@ -1,4 +1,6 @@
 ﻿using System;
+using InjecaoInterface.Exemplo;
+using InjecaoInterface.MeuExemplo;
 
 namespace InjecaoInterface
 {
@@ -6,7 +8,11 @@ namespace InjecaoInterface
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pedido pedido = new Pedido();
+            Disciplina disc = new Disciplina();
+            Compra cli = new Compra(pedido);
+            Console.WriteLine("Pedido");
+            Console.ReadKey();
         }
     }
 }
