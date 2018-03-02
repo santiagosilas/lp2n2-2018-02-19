@@ -1,12 +1,17 @@
-﻿using System;
+﻿using Microsoft.Extensions.DependencyInjection;
+using System;
 
-namespace app5
+namespace DependencyInjection
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var serviceCollection = new ServiceCollection();
+        }
+        public static void ConfigureServices(IServiceCollection service)
+        {
+            service.AddTransient<IProduto, Produto>();
         }
     }
 }
