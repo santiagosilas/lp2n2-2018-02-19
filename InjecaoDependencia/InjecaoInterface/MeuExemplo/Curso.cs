@@ -6,11 +6,16 @@ namespace InjecaoInterface.MeuExemplo
 {
     public class Curso
     {
-        public IList<Disciplina> ListDisciplina()
+        private readonly IDisciplina _disciplina;
+
+        public Curso(IDisciplina disciplina)
         {
-            Disciplina disciplina = new Disciplina();
-            IList<Disciplina> disc = disciplina.GetAllDisciplina();
-            return disc;
+            this._disciplina = disciplina;
+        }
+
+        public string Listar()
+        {
+            return this._disciplina.Listar();
         }
     }
 }

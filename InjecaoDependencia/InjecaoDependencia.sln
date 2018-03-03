@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InjecaoInterface", "Injecao
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InjecaoFramework", "InjecaoFramework\InjecaoFramework.csproj", "{8B44CA2B-E5C4-48AD-AA09-67AE931D6D6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjecaoConstrutor", "InjecaoConstrutor\InjecaoConstrutor.csproj", "{E8C81C36-C8DE-4714-BAC6-4D3CBC2F62E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InjecaoConstrutor", "InjecaoConstrutor\InjecaoConstrutor.csproj", "{E8C81C36-C8DE-4714-BAC6-4D3CBC2F62E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftExtension", "microsoftwareExtension\MicrosoftExtension.csproj", "{7B1896F2-4D1C-4CFE-920A-8D478CB5160E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E8C81C36-C8DE-4714-BAC6-4D3CBC2F62E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8C81C36-C8DE-4714-BAC6-4D3CBC2F62E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8C81C36-C8DE-4714-BAC6-4D3CBC2F62E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1896F2-4D1C-4CFE-920A-8D478CB5160E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1896F2-4D1C-4CFE-920A-8D478CB5160E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1896F2-4D1C-4CFE-920A-8D478CB5160E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1896F2-4D1C-4CFE-920A-8D478CB5160E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

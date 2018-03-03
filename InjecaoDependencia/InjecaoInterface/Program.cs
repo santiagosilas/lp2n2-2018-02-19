@@ -9,9 +9,13 @@ namespace InjecaoInterface
         static void Main(string[] args)
         {
             Pedido pedido = new Pedido();
-            Disciplina disc = new Disciplina();
-            Compra cli = new Compra(pedido);
-            Console.WriteLine("Pedido");
+           Compra cli = new Compra(pedido);
+
+            Disciplina d = new Disciplina();
+            Curso c = new Curso(d);
+
+            Console.WriteLine("Total de Pedido =  " + pedido.CalcularTotal());
+            Console.WriteLine("\nDisciplina:  " + d.Listar());
             Console.ReadKey();
         }
     }

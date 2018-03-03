@@ -4,11 +4,16 @@ using System.Text;
 
 namespace InjecaoInterface.MeuExemplo
 {
-    public class Disciplina 
+    public class Disciplina : IDisciplina 
     {
-        public IList<Disciplina> GetAllDisciplina()
+        public string Listar()
         {
-            return new List<Disciplina>();
+            return null;
         }
+    }
+
+    public interface IDisciplina
+    {
+        string Listar();
     }
 }

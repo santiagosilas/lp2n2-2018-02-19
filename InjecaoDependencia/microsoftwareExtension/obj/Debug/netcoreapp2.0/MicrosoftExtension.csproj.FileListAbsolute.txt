@@ -1,0 +1,8 @@
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\microsoftwareExtension\bin\Debug\netcoreapp2.0\MicrosoftExtension.deps.json
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\microsoftwareExtension\bin\Debug\netcoreapp2.0\MicrosoftExtension.runtimeconfig.json
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\microsoftwareExtension\bin\Debug\netcoreapp2.0\MicrosoftExtension.runtimeconfig.dev.json
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\microsoftwareExtension\bin\Debug\netcoreapp2.0\MicrosoftExtension.dll
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\microsoftwareExtension\obj\Debug\netcoreapp2.0\MicrosoftExtension.csprojResolveAssemblyReference.cache
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\microsoftwareExtension\obj\Debug\netcoreapp2.0\MicrosoftExtension.csproj.CoreCompileInputs.cache
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\microsoftwareExtension\obj\Debug\netcoreapp2.0\MicrosoftExtension.AssemblyInfoInputs.cache
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\lp2n2\lp2n2-2018-02-19\InjecaoDependencia\microsoftwareExtension\obj\Debug\netcoreapp2.0\MicrosoftExtension.AssemblyInfo.cs
