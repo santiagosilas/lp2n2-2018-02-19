@@ -1,0 +1,10 @@
+C:\Users\bolsista\Documents\Joyce\exemplo_injecaoConsole\bin\Debug\netcoreapp2.0\exemplo_injecaoConsole.deps.json
+C:\Users\bolsista\Documents\Joyce\exemplo_injecaoConsole\bin\Debug\netcoreapp2.0\exemplo_injecaoConsole.runtimeconfig.json
+C:\Users\bolsista\Documents\Joyce\exemplo_injecaoConsole\bin\Debug\netcoreapp2.0\exemplo_injecaoConsole.runtimeconfig.dev.json
+C:\Users\bolsista\Documents\Joyce\exemplo_injecaoConsole\bin\Debug\netcoreapp2.0\exemplo_injecaoConsole.dll
+C:\Users\bolsista\Documents\Joyce\exemplo_injecaoConsole\bin\Debug\netcoreapp2.0\exemplo_injecaoConsole.pdb
+C:\Users\bolsista\Documents\Joyce\exemplo_injecaoConsole\obj\Debug\netcoreapp2.0\exemplo_injecaoConsole.csproj.CoreCompileInputs.cache
+C:\Users\bolsista\Documents\Joyce\exemplo_injecaoConsole\obj\Debug\netcoreapp2.0\exemplo_injecaoConsole.AssemblyInfoInputs.cache
+C:\Users\bolsista\Documents\Joyce\exemplo_injecaoConsole\obj\Debug\netcoreapp2.0\exemplo_injecaoConsole.AssemblyInfo.cs
+C:\Users\bolsista\Documents\Joyce\exemplo_injecaoConsole\obj\Debug\netcoreapp2.0\exemplo_injecaoConsole.dll
+C:\Users\bolsista\Documents\Joyce\exemplo_injecaoConsole\obj\Debug\netcoreapp2.0\exemplo_injecaoConsole.pdb

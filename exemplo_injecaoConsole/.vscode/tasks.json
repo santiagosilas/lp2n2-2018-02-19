@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/exemplo_dependencia.csproj"
+                "${workspaceFolder}/exemplo_injecaoConsole.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

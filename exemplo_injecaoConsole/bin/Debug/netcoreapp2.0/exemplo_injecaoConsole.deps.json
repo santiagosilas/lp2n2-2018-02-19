@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "exemplo_dependencia/1.0.0": {
+      "exemplo_injecaoConsole/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "2.0.0"
         },
         "runtime": {
-          "exemplo_dependencia.dll": {}
+          "exemplo_injecaoConsole.dll": {}
         }
       },
       "Microsoft.Extensions.DependencyInjection/2.0.0": {
@@ -30,7 +30,7 @@
     }
   },
   "libraries": {
-    "exemplo_dependencia/1.0.0": {
+    "exemplo_injecaoConsole/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
