@@ -1,0 +1,4 @@
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\Ninject.csprojResolveAssemblyReference.cache
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\Ninject.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\Ninject.AssemblyInfoInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\Ninject.AssemblyInfo.cs

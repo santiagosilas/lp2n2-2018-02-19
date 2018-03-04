@@ -1,0 +1,11 @@
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\bin\Debug\netcoreapp2.0\NinjectExemplo.deps.json
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\bin\Debug\netcoreapp2.0\NinjectExemplo.runtimeconfig.json
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\bin\Debug\netcoreapp2.0\NinjectExemplo.runtimeconfig.dev.json
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\bin\Debug\netcoreapp2.0\NinjectExemplo.dll
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\bin\Debug\netcoreapp2.0\NinjectExemplo.pdb
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\NinjectExemplo.csprojResolveAssemblyReference.cache
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\NinjectExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\NinjectExemplo.AssemblyInfoInputs.cache
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\NinjectExemplo.AssemblyInfo.cs
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\NinjectExemplo.dll
+C:\Users\Alberto Zaranza\source\repos\Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\NinjectExemplo.pdb
